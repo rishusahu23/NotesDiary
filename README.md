@@ -7,3 +7,5 @@ User can also ***search their notes*** using note's title and ***share*** their 
 App also loaded feature such that when user create new note, then created date also noted recorded and when user edit their app, then edited date recorded in firebase.
 
 * ***IDE USED*** : *Android Studio*
+* ***LANGUAGE USED*** : *JAVA*
+* ***DATABASE USED*** : *Firebase Realtime*
