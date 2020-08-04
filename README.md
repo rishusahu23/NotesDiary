@@ -12,3 +12,4 @@ TextToSpeech feature is also present which convert title and description to spee
 * ***DATABASE USED*** : *Firebase Realtime*
 
 	![](images/img1.png =250x)
+	<img src="images/img1.png" width="200">
