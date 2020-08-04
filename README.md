@@ -11,4 +11,4 @@ TextToSpeech feature is also present which convert title and description to spee
 * ***LANGUAGE USED*** : *JAVA*
 * ***DATABASE USED*** : *Firebase Realtime*
 
-	![](images/img1.png)
+	![](images/img1.png =250x)
